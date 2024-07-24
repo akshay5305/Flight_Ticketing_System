@@ -41,7 +41,6 @@ def load_image(image_path):
         return None
 
 def main():
-    st.write("Writing flight_price_app.py")
 
     # Loading and displaying the background image
     bg_image = load_image('bg.png')
@@ -74,7 +73,7 @@ def main():
 
     # Displaying images
     st.subheader('Model Statistics:')
-    for img_path, caption in [('actual_vs_predicted1.png', 'Actual Vs Predicted Values 1'), ('actual_vs_predicted2.png', 'Actual Vs Predicted Values 2')]:
+    for img_path, caption in [('111.png', ' '), ('112.png', ' ')]:
         img = load_image(img_path)
         if img:
             st.image(img, caption=caption)
