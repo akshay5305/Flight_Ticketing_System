@@ -1,4 +1,5 @@
 # Flight_Ticketing_System
+ Cloud Deployment – Hosted using [https://flightpricesystem.streamlit.app/] for real-time usage.
 
 Associated with BNM Institute of Technology
 
@@ -18,8 +19,6 @@ Flight prices vary drastically based on multiple factors. By analyzing historica
 ✅ Machine Learning – Trained with multiple regression algorithms (Random Forest, Linear Regression, XGBoost, etc.) to find the best performer.
 
 ✅ Model Evaluation – Used metrics like MAE, RMSE, and R² to validate model accuracy.
-
-✅ Cloud Deployment – Hosted using [https://flightpricesystem.streamlit.app/] for real-time usage.
 
 ✅ Interactive UI – Clean interface that allows users to input flight details and get instant price estimates.
 
